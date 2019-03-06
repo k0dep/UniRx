@@ -1,0 +1,11 @@
+{
+  "name": "unirx",
+  "displayName": "UniRx",
+  "version": "6.2.2",
+  "unity": "2018.3",
+  "description": "Reactive Extensions for Unity Upm package",
+  "keywords": [
+    "rx",
+    "reactive-extensions"
+  ]
+}

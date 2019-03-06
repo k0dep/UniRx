@@ -1,9 +1,20 @@
-UniRx - Reactive Extensions for Unity
+UniRx - Reactive Extensions for Unity upm package
 ===
 Created by Yoshifumi Kawai(neuecc)
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/neuecc/UniRx?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  
 [![Become as Backer](https://opencollective.com/unirx/tiers/backer.svg?avatarHeight=50)](https://opencollective.com/unirx) [![Become as Sponsor](https://opencollective.com/unirx/tiers/sponsor.svg?avatarHeight=50)](https://opencollective.com/unirx)
+
+Using
+---
+ For start using this package add lines into `./Packages/manifest.json` like next sample:  
+```json
+{
+  "dependencies": {
+    "zenject": "https://github.com/k0dep/UniRx.git#6.2.2"
+  }
+}
+```
 
 What is UniRx?
 ---
