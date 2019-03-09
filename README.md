@@ -11,7 +11,7 @@ Using
 ```json
 {
   "dependencies": {
-    "zenject": "https://github.com/k0dep/UniRx.git#6.2.2"
+    "unirx": "https://github.com/k0dep/UniRx.git#6.2.2"
   }
 }
 ```
